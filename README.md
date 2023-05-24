@@ -1,5 +1,7 @@
 ## Project-Tryunfo
 
+- Projeto do módulo de Front-end da Trybe.
+
 Foi desenvolvido um jogo no estilo Super Trunfo em que uma pessoa usuária é capaz de:
 
   * Criar um baralho, com o tema livre;
